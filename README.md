@@ -1,4 +1,4 @@
-# Converting ArcGIS Symbology Labels to CSV
+# Exporting ArcGIS Symbology Labels to CSV
 ArcGIS does not have a built-in feature for exporting symbology unique value classes and their correspondent text labels onto a tabular format. This tool allows you to convert a layer file with .lyrx extension to CSV.
 
 ## Instructions
